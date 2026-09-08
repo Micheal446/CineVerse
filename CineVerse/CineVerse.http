@@ -1,0 +1,6 @@
+@CineVerse_HostAddress = http://localhost:5033
+
+GET {{CineVerse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
